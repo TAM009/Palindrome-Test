@@ -1,0 +1,15 @@
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.Test.deps.json
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.Test.runtimeconfig.json
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.Test.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.Test.dll
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.Test.pdb
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.dll
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\bin\Debug\netcoreapp2.0\Palindrome.pdb
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\obj\Debug\netcoreapp2.0\Palindrome.Test.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\obj\Debug\netcoreapp2.0\Palindrome.Test.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\obj\Debug\netcoreapp2.0\Palindrome.Test.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\obj\Debug\netcoreapp2.0\Palindrome.Test.dll
+c:\Users\Administrator\Desktop\Palindrome\Palindrome.Test\obj\Debug\netcoreapp2.0\Palindrome.Test.pdb
